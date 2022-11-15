@@ -5,5 +5,5 @@
 - Smitten
 
 ### Game engines used:
-- [godot](https://godotengine.org/)
 - [bevy](https://bevyengine.org/)
+- [godot](https://godotengine.org/)
