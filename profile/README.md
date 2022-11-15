@@ -1,4 +1,4 @@
-# :b:aha Games :bowtie:
+# Baha Games :wolf:
 
 ### Games in progress:
 - Automated Workers
